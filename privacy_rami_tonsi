@@ -1,0 +1,274 @@
+Privacy Policy for Rami Tounsi
+
+Effective date: April 15, 2026
+
+This Privacy Policy explains how Rami Tounsi ("the App", "we", "us", or "our") collects, uses, stores, and shares information when you use the mobile game Rami Tounsi.
+
+By using the App, you agree to the practices described in this Privacy Policy.
+
+1. Who We Are
+
+Rami Tounsi is a mobile card game that includes offline play, online competitive play, player profiles, rankings, badges, optional voice chat during matches, and cloud-based account recovery.
+
+If you need to contact us regarding privacy or data protection matters, you can use the following contact details:
+
+Developer / Publisher: Housie
+Email: banditscreator@gmail.com
+
+Country: Tunisia
+
+2. Information We Collect
+
+We may collect the following categories of information:
+
+A. Account Information
+
+When you create or use an account, we may collect:
+
+Your Firebase user ID
+Your email address if you link your account with email/password
+Your email verification status
+Your sign-in provider, such as email/password or Google Sign-In
+B. Profile Information
+
+When you use profile features, we may collect and store:
+
+Your display name
+Your player ID / player number
+Your country or selected region
+Your profile image or avatar
+Your public profile status and verification-related flags
+C. Gameplay and Competitive Data
+
+To operate the game and competitive systems, we may collect and store:
+
+Match results
+Ranking points and ranking history
+Wins, losses, streaks, match counts, and similar competitive statistics
+Badge progress and profile progression
+Online match state data necessary to run live matches and recover disrupted sessions
+D. Device, Diagnostics, and Technical Data
+
+We may collect limited technical information, such as:
+
+Crash logs
+Error reports
+Performance diagnostics
+Technical event data necessary to keep the game stable and secure
+E. Voice Chat Data
+
+If you use the optional in-game voice feature, we may process:
+
+Voice session participation data
+Microphone access during live voice communication
+Basic voice session metadata such as room participation identity and profile display information
+
+We do not record or store the content of live voice conversations.
+
+We do not use microphone access unless the voice feature is used.
+
+F. User Content
+
+If you upload a profile picture or provide a display name, that content is processed and stored to display your account properly in the App.
+
+G. Advertising and Analytics Data
+
+If the App shows ads or uses analytics tools, third-party services may collect certain data, such as:
+
+Advertising ID
+Approximate data used for ad targeting or measurement
+App interaction and usage events
+Device and performance-related analytics data
+3. Information We Do Not Intentionally Collect
+
+We do not intentionally collect:
+
+Payment card data
+Government ID numbers
+Precise location/GPS data
+Personal contacts, SMS, or call logs
+Photo library content other than the specific image you choose to upload as your profile picture
+
+The App does not offer in-app purchases or subscriptions.
+
+4. How We Use Your Information
+
+We use information for the following purposes:
+
+To create and manage your account
+To let you sign in, restore your progress, and verify your account
+To display your player profile to you and, where applicable, to other players
+To operate online matchmaking and live multiplayer matches
+To calculate rankings, leaderboard placement, and badge progress
+To provide optional voice chat during matches
+To show and manage ads, where applicable
+To understand app usage and improve gameplay quality, reliability, and user experience
+To maintain security, detect abuse, and protect fair play
+To diagnose crashes, bugs, and service failures
+To comply with legal obligations
+5. Legal Basis and Consent
+
+Depending on your location, we may process personal data based on one or more of the following:
+
+Your consent
+Performance of a service you requested
+Legitimate interests in operating, securing, monetizing, and improving the App
+Compliance with legal obligations
+
+When microphone or media-related permissions are requested, they are requested through your device operating system and may be controlled by you in device settings.
+
+6. Microphone Permission
+
+The App may request microphone permission only for the optional in-game voice chat feature.
+
+Microphone access is used only so you can speak in supported live match voice rooms. If you do not grant microphone access, you can still use other parts of the App, but voice communication may not work.
+
+You can revoke microphone permission at any time from your device settings.
+
+7. Profile Pictures and Media Access
+
+If you choose to upload a profile image, the App may access the image you select from your device. We only use the selected image for your player profile and do not access unrelated media content beyond what is required by the operating system picker flow.
+
+8. Public and In-Game Visibility
+
+Some information may be visible to other users inside the App, including:
+
+Your display name
+Your avatar
+Your ranking or leaderboard presence
+Limited profile information needed for online play
+
+This visibility is necessary for gameplay, profile display, online competition, and related social features inside the App.
+
+9. How We Share Information
+
+We do not sell your personal information.
+
+We may share information only in the following situations:
+
+A. Service Providers and Infrastructure Providers
+
+We use trusted third-party services to operate the App, including:
+
+Firebase Authentication
+Cloud Firestore
+Firebase Storage
+Firebase Crashlytics
+Firebase Cloud Functions
+Google Analytics for Firebase
+Google AdMob
+LiveKit for voice communication
+
+These providers may process data on our behalf to host infrastructure, authenticate users, store game data, deliver voice features, provide diagnostics, measure usage, and serve ads.
+
+B. Legal Reasons
+
+We may disclose information if required to do so by law, regulation, legal process, or a valid governmental request.
+
+C. Protection and Security
+
+We may disclose information where necessary to protect the rights, safety, property, users, the App, or the public, including fraud prevention, abuse investigation, and service security.
+
+10. Data Storage and Retention
+
+We retain information only for as long as reasonably necessary to:
+
+Provide the App
+Maintain your account and progress
+Preserve rankings and competitive records
+Resolve disputes
+Detect abuse or cheating
+Comply with legal obligations
+
+If you delete your account, we will delete or anonymize the data associated with your account to the extent technically and legally possible, subject to legitimate retention needs such as security, fraud prevention, or legal compliance.
+
+11. Account Deletion
+
+You may delete your account from inside the App using the in-app account deletion feature.
+
+When you request account deletion, we may delete:
+
+Your authentication account
+Your player profile
+Your uploaded avatar or profile image
+Your cloud-stored account-related data associated with your account
+
+Account deletion is intended to be permanent and may not be reversible.
+
+Some limited technical or security records may be retained where necessary for legal compliance, fraud prevention, platform integrity, or dispute handling.
+
+12. Data Security
+
+We use reasonable technical and organizational safeguards to protect data, including access controls and backend security rules.
+
+However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+
+13. Children's Privacy
+
+The App is intended for a mixed audience.
+
+We do not knowingly collect personal information from children in violation of applicable law. If you believe a child has provided personal information in violation of applicable law, contact us and we will review and take appropriate action.
+
+If your distribution on Google Play is intended for a mixed audience, you must also ensure your Play Console declarations, SDK behavior, ad settings, and data practices match that audience category and comply with applicable platform rules.
+
+14. International Data Transfers
+
+Your information may be processed on servers located outside your country of residence, depending on the infrastructure of the services we use.
+
+By using the App, you understand that your data may be transferred to and processed in other countries where data protection laws may differ from those in your jurisdiction.
+
+15. Your Rights
+
+Depending on your location and applicable law, you may have rights such as:
+
+The right to access your data
+The right to request correction of inaccurate data
+The right to request deletion of your data
+The right to withdraw consent where processing is based on consent
+The right to object to certain processing
+The right to request restriction of processing
+The right to data portability where applicable
+
+To exercise these rights, contact us using the contact details listed below.
+
+16. Third-Party Services
+
+The App may rely on third-party services whose privacy practices are governed by their own policies. These may include:
+
+Google / Firebase
+Google AdMob
+LiveKit
+
+We encourage you to review the privacy policies of these providers as well.
+
+17. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+If we make material changes, we may update the effective date above and, where appropriate, provide additional notice within the App or through the store listing.
+
+Continued use of the App after the updated Privacy Policy becomes effective means you accept the updated policy.
+
+18. Contact Us
+
+If you have questions, requests, or concerns about this Privacy Policy or your personal data, contact us at:
+
+Email: banditscreator@gmail.com
+
+Developer / Publisher: Housie
+Country: Tunisia
+
+19. Google Play Compliance Note
+
+For Google Play publication, this Privacy Policy is intended to cover:
+
+Account creation and sign-in
+Google Sign-In and email/password sign-in
+Cloud save and account recovery
+Public profile display
+Leaderboards and rankings
+Optional microphone-based live voice chat
+Crash reporting and technical diagnostics
+Analytics and app performance measurement
+Advertising through AdMob
+In-app account deletion
